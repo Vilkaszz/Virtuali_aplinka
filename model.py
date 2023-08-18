@@ -62,3 +62,4 @@ if missing_statuses:
     session.commit()
 else:
     print("Visi pradiniai status įrašai jau yra duomenų bazėje.")
+
